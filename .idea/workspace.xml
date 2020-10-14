@@ -95,6 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringBootWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxx.SpringBootWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThymeleafSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="thymeleaf-springboot" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ThymeleafSpringbootApplication" />
@@ -147,7 +154,7 @@
       <workItem from="1602298832957" duration="689000" />
       <workItem from="1602392076456" duration="2531000" />
       <workItem from="1602468438657" duration="5396000" />
-      <workItem from="1602642693568" duration="3293000" />
+      <workItem from="1602642693568" duration="6295000" />
     </task>
     <servers />
   </component>
@@ -199,9 +206,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="270" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1602392918971" />
-    <state x="288" y="121" key="new project wizard" timestamp="1602494210391">
+    <state x="288" y="121" key="new project wizard" timestamp="1602675552280">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="288" y="121" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1602494210391" />
+    <state x="288" y="121" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1602675552280" />
   </component>
 </project>

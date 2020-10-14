@@ -77,6 +77,7 @@
         <option value="$PROJECT_DIR$/helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/yamlDemo/pom.xml" />
         <option value="$PROJECT_DIR$/thymeleaf-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-web/pom.xml" />
       </list>
     </option>
   </component>
