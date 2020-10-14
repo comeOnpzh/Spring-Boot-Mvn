@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.example.demo.Bean.Person",
+      "sourceType": "com.example.demo.Bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.demo.Bean.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.example.demo.Bean.Dog",
+      "sourceType": "com.example.demo.Bean.Person"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "com.example.demo.Bean.Person"
+    },
+    {
+      "name": "person.map",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.example.demo.Bean.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.Bean.Person"
+    }
+  ],
+  "hints": []
+}

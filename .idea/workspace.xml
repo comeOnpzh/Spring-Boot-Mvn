@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="920e2172-f5b7-4b6c-b551-5793c87cc683" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\WorkingSpace\apache-maven-3.6.3\mvn_repository" />
+        <option name="mavenHome" value="E:/WorkingSpace/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\WorkingSpace\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i7nExXpLRjzDFhSFg5VOXgbM1u" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ThymeleafSpringbootApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YamlDemoApplicationTests.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yamlDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.YamlDemoApplicationTests" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.helloworld.HelloworldApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThymeleafSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="thymeleaf-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ThymeleafSpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YamlDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yamlDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.YamlDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.YamlDemoApplicationTests.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="920e2172-f5b7-4b6c-b551-5793c87cc683" name="Default Changelist" comment="" />
+      <created>1601267394232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601267394232</updated>
+      <workItem from="1601267405293" duration="3829000" />
+      <workItem from="1602298832957" duration="689000" />
+      <workItem from="1602392076456" duration="2531000" />
+      <workItem from="1602468438657" duration="5396000" />
+      <workItem from="1602642693568" duration="1948000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1602392611511">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1602392611511" />
+    <state width="1493" height="281" key="GridCell.Tab.0.bottom" timestamp="1602514640873">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1602514640873" />
+    <state width="1493" height="281" key="GridCell.Tab.0.center" timestamp="1602514640873">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1602514640873" />
+    <state width="1493" height="281" key="GridCell.Tab.0.left" timestamp="1602514640873">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1602514640873" />
+    <state width="1493" height="281" key="GridCell.Tab.0.right" timestamp="1602514640873">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1602514640873" />
+    <state width="1493" height="281" key="GridCell.Tab.1.bottom" timestamp="1602514640873">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1602514640873" />
+    <state width="1493" height="281" key="GridCell.Tab.1.center" timestamp="1602514640873">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1602514640873" />
+    <state width="1493" height="281" key="GridCell.Tab.1.left" timestamp="1602514640873">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1602514640873" />
+    <state width="1493" height="281" key="GridCell.Tab.1.right" timestamp="1602514640873">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1602514640873" />
+    <state x="299" y="87" key="Maven.ArtifactSearchDialog" timestamp="1602494401500">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="299" y="87" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1602494401500" />
+    <state x="270" y="74" key="SettingsEditor" timestamp="1602392918971">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1602392918971" />
+    <state x="288" y="121" key="new project wizard" timestamp="1602494210391">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="288" y="121" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1602494210391" />
+  </component>
+</project>

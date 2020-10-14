@@ -1,0 +1,10 @@
+server:
+  port: 8888
+
+
+person:
+  name: zhangsan
+  age: 18
+  map: {k1: v1,k2: v2}
+  lists: [三国演义，红楼梦，水浒传，西游记]
+  dog: {name: uzi,age: 20}
